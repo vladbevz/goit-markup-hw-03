@@ -380,9 +380,6 @@ img {
 }
 .projects-link {
   text-decoration: none;
-  border-bottom: 1px solid #e7e9fc;
-  border-right: 1px solid #e7e9fc;
-  border-left: 1px solid #e7e9fc;
 }
 
 .projects-icon {
@@ -391,6 +388,9 @@ img {
   padding-top: 32px;
   padding-bottom: 32px;
   padding-left: 16px;
+  border-bottom: 1px solid #e7e9fc;
+  border-right: 1px solid #e7e9fc;
+  border-left: 1px solid #e7e9fc;
 }
 .projects-title {
   font-weight: 500;
